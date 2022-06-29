@@ -1,0 +1,2 @@
+# Training-JS-23-methods-of-arrayObject---push-pop-shift-and-unshift-
+Training JS #23: methods of arrayObject---push(), pop(), shift() and unshift(). From this Kata, I will do some changes: to reduce the description of the text (to provide a reference link). Because I am not good at writing these words of description. Examples and essential points will be retained.  At this lesson, we will learn some methods about add/remove array elements.
